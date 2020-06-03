@@ -1,4 +1,4 @@
-#!/Users/subashlimbu/development/project-x/django_project/django_project/bin/python
+#!/Users/subashlimbu/development/project-x/django_project/django_project/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
